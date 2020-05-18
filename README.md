@@ -1,1 +1,1 @@
-# Infinitelist.github.io
+# infinitelist.github.io
